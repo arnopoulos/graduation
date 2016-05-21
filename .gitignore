@@ -1,3 +1,5 @@
 photos/
 bower_components/
 photos.json
+
+.DS_Store
