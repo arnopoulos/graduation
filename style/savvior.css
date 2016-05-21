@@ -1,0 +1,31 @@
+body {
+    margin: 0pt;
+}
+
+.box {
+    background-color: black;
+}
+
+.box img {
+    width: 100%;
+}
+
+.column {
+    float: left;
+    box-sizing: border-box;
+}
+.size-1of1 {
+    width: 100%;
+}
+
+.size-1of2 {
+    width: 50%;
+}
+
+.size-1of3 {
+    width: 33.33333%;
+}
+
+.size-1of4 {
+    width: 25%;
+}
